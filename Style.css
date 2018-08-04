@@ -1,8 +1,22 @@
-
+/*
 #body{
   background-color:blue;
 }
 
 #cabecera{
   background-color:red;
+}
+*/
+
+#nav{
+  display: inline;
+  background-color:yellow;
+}
+
+#div{
+  background-color: pink;
+}
+
+#cabecera{
+  background-color: blue;
 }
