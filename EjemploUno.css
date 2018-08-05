@@ -5,4 +5,9 @@
   padding: 2px;
   margin: auto;
   border-radius: 15px;
+  background:-webkit-linear-gradient(botton blue red);
+}
+
+#figure{
+  text-align: center;
 }
