@@ -1,11 +1,15 @@
-#header{
-  background-color: blue;
+#h1{
+  color: #FFF;
   text-align: center;
-  width: 500px;
-  padding: 2px;
-  margin: auto;
+  width: 35%;
+  padding: 10px;
+  margin: 15px auto;
   border-radius: 15px;
-  background:-webkit-linear-gradient(botton blue red);
+  font:normal 1.5em arial;
+  background:-webkit-linear-gradient(top, #00F, #0CF);
+  box-shadow: #0CF 5px 5px 10px;
+  text-shadow: #FFF 2px 2px 4px;
+
 }
 
 #figure{
