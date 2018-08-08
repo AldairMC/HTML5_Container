@@ -11,7 +11,14 @@
   text-shadow: #FFF 2px 2px 4px;
 
 }
+#h3{
+  font:bold 1.2em arial;
+  margin: 0px
+  padding: 5px 0px 5px 0px;
+  color: black;
+}
 
-#figure{
+figure{
   text-align: center;
+  float: left;
 }
